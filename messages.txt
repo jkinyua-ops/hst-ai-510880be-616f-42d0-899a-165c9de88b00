@@ -1,2 +1,4 @@
 "add a dark theme toggler in the KingsInns.Web project"
 
+"add a help page for the app in the KingsInns.Web app"
+
