@@ -1,0 +1,2 @@
+This is a dining app where students, benchers and barristers can login to view events and make bookings. 
+The frontend is a blazor server. The backend is dotnet core 8 web api
